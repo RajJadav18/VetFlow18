@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌊 VetFlow — Veterinary & Wildlife Management Platform
 
 Full-stack MERN app with 3D Three.js globe, real-time Socket.io GPS, and complete clinic management.
@@ -54,3 +55,6 @@ cd client && npm run dev
 | Staff | `/staff` | Team management + duty roster |
 | Adoption | `/adoption` | Animal adoption board |
 | Analytics | `/analytics` | Charts + branch performance |
+=======
+# VetFlow
+>>>>>>> 42990cb762797c90ed6cd76d87e9d9d0e28acbb2
